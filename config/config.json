@@ -1,0 +1,3 @@
+{
+  "mongoUri": "mongodb+srv://zahw:3665@cluster0.z8jyv.mongodb.net/image_upload_db?retryWrites=true&w=majority"
+}
